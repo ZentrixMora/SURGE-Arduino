@@ -26,3 +26,11 @@ We use ESP 8266 WiFi module with a adapter.
 | GND      | GND | 
 | Pin 19 (RX1)      | TX     | 
 | Pin 18 (TX1)      | RX |
+
+## References
+
+- [Web Backend](https://github.com/WimansaHansanee/SURGE-WebBackend)
+
+- [Web Frontend](https://github.com/WimansaHansanee/SURGE-WebFrontend)
+
+- [Simulators](https://github.com/ZentrixMora/SURGE-Simulators)
